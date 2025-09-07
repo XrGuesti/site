@@ -1,5 +1,3 @@
-# site
-
 # TEST 1 : Création d'un système d'authentification
 
 
